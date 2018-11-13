@@ -1,0 +1,32 @@
+﻿<!doctype html>
+ <html ng-controller="AppCtrl" 
+  lang="{{App.LanguageCode}}" dir="{{App.TextDirection}}">
+  <head>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="viewport-fit=contain, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+   <meta http-equiv="x-ua-compatible" content="ie=edge" />
+   <meta http-equiv="Content-Security-Policy"
+    content="default-src * data: mediastream: blob: filesystem: cdvfile: ws: ms-appdata: ms-appx-web: gap: ng-src: 'unsafe-inline' 'unsafe-eval';" />
+   <meta name="generator" content="DecSoft's App Builder v2018.122 - https://www.davidesperalta.com/" />
+   
+   
+   <link rel="icon" type="image/png" href="app/images/icon.png" />
+   <link rel="shortcut icon" href="app/images/icon.png" type="image/x-icon" />
+   <link rel="stylesheet" type="text/css" id="appTheme" href="builder/styles/default.css" />
+   <link rel="stylesheet" type="text/css" href="builder/styles/builder.css" />
+   <link rel="stylesheet" type="text/css" id="appStyle" href="app/styles/scaled.css" />
+   
+   <title>{{App.Name}}</title>
+  </head>
+  <body lang="{{App.LanguageCode}}" ng-view ng-controller="AppEventsCtrl">
+   <script src="builder/scripts/builder.js"></script>
+   <script src="app/scripts/app.js"></script>
+   <script src="cordova.js"></script>
+   <script src="app/plugins/AdMob/Scripts/Plugin.js"></script>
+<script src="app/plugins/Analytics/Scripts/analytics.js"></script>
+<script src="app/plugins/Analytics/Scripts/Plugin.js"></script>
+<script src="app/plugins/NativeSharing/Scripts/Plugin.js"></script>
+<script src="app/plugins/SendSMS/Scripts/Plugin.js"></script>
+
+  </body>
+ </html>

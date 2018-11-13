@@ -1,0 +1,355 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2018 App Builder - https://www.davidesperalta.com
+ */
+/* App auto generated CSS */
+html, body, .appView { width: 800px; height: 540px; }
+.dialogView .modal-dialog { width: 800px; margin: 0 auto; }
+#welcome { background-image: url('../images/app_back.png'); }
+#Container30 { position: absolute; top: 0px; left: 808px; width: 280px; height: 512px; background-image: url('../images/app_menu_back.png'); border-right: #bbb solid 1px; overflow-y: auto; z-index: 9999;}
+#Container31 { position: absolute; top: 0px; left: 0px; width: 280px; height: 136px; background-color: #00cccc; background-size: 100%; background-image: url('../images/app_head_back.png'); background-position: 0; border-bottom: 3px; border-bottom-color: black; border-bottom-style: solid;}
+#Container32 { position: absolute; top: 136px; left: 0px; width: 240px; height: 40px; }
+#C_all_apps_btn { position: absolute; top: 8px; left: 56px; width: 168px; height: 24px; padding-top: 5px;}
+#C_all_apps_ico { position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; }
+#Container39 { position: absolute; top: 344px; left: 0px; width: 240px; height: 40px; }
+#C_visit_site_btn { position: absolute; top: 8px; left: 56px; width: 168px; height: 24px; padding-top: 5px;}
+#C_visit_site_ico { position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; }
+#Container40 { position: absolute; top: 304px; left: 0px; width: 240px; height: 40px; }
+#C_help_btn { position: absolute; top: 8px; left: 56px; width: 168px; height: 24px; padding-top: 5px;}
+#C_help_ico { position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; }
+#Container41 { position: absolute; top: 264px; left: 0px; width: 240px; height: 40px; }
+#C_chat_btn { position: absolute; top: 8px; left: 56px; width: 168px; height: 24px; padding-top: 5px;}
+#C_chat_ico { position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; }
+#Container42 { position: absolute; top: 224px; left: 0px; width: 240px; height: 40px; }
+#C_activate_btn { position: absolute; top: 8px; left: 56px; width: 168px; height: 24px; padding-top: 5px;}
+#C_activate_ico { position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; }
+#Container43 { position: absolute; top: 184px; left: 0px; width: 240px; height: 40px; }
+#C_reqst_code_btn { position: absolute; top: 8px; left: 56px; width: 168px; height: 24px; color: #008000; padding-top: 5px;}
+#C_reqst_code_ico { position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; }
+#Container12 { position: absolute; top: 392px; left: 0px; width: 240px; height: 40px; }
+#C_Update_btn { position: absolute; top: 8px; left: 56px; width: 168px; height: 24px; padding-top: 5px;}
+#C_Update_ico { position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; }
+#Container13 { position: absolute; top: 432px; left: 0px; width: 240px; height: 40px; }
+#C_About_btn { position: absolute; top: 8px; left: 56px; width: 168px; height: 24px; padding-top: 5px;}
+#C_About_ico { position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; }
+#Container14 { position: absolute; top: 472px; left: 0px; width: 240px; height: 40px; }
+#C_Settings_btn { position: absolute; top: 8px; left: 56px; width: 168px; height: 24px; padding-top: 5px;}
+#C_Settings_ico { position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; }
+#Contaitner4 { position: absolute; top: 0px; left: 0px; width: 800px; height: 48px; }
+#Label20 { position: absolute; top: 0px; left: 104px; width: 352px; height: 40px; font-size: 26px; text-align: left; padding-top: 4px;}
+#HtmlConftent17 { position: absolute; top: 8px; left: 704px; width: 40px; height: 34px; color: #ffffff; padding-top: 6px;}
+#HtmlContent56 { position: absolute; top: 8px; left: 8px; width: 40px; height: 34px; color: #ffffff; padding-top: 7px;}
+#HtmlContent2 { position: absolute; top: 8px; left: 752px; width: 40px; height: 34px; color: #ffffff; padding-top: 6px;}
+#Image1 { position: absolute; top: 160px; left: 152px; width: 128px; height: 120px; opacity: 50%; border-radius: 10%; border-width: 2px; box-shadow: 6px;}
+#Image2 { position: absolute; top: 328px; left: 152px; width: 128px; height: 120px; border-radius: 10%;}
+#Image3 { position: absolute; top: 160px; left: 328px; width: 128px; height: 120px; border-radius: 10%;}
+#Image5 { position: absolute; top: 320px; left: 328px; width: 128px; height: 128px; border-radius: 10%;}
+#addpoll { position: absolute; top: 280px; left: 152px; width: 128px; height: 20px; text-align: center;}
+#Label9 { position: absolute; top: 280px; left: 328px; width: 128px; height: 20px; text-align: center;}
+#Label11 { position: absolute; top: 448px; left: 152px; width: 120px; height: 20px; text-align: center;}
+#Label14 { position: absolute; top: 448px; left: 336px; width: 120px; height: 20px; text-align: center;}
+#Label19 { position: absolute; top: 88px; left: 152px; width: 472px; height: 20px; font-size: lg; text-align: center;}
+#Image7 { position: absolute; top: 160px; left: 504px; width: 120px; height: 120px; border-radius: 10%;}
+#Image8 { position: absolute; top: 320px; left: 504px; width: 120px; height: 128px; border-radius: 10%;}
+#Label21 { position: absolute; top: 280px; left: 504px; width: 120px; height: 20px; text-align: center;}
+#Label22 { position: absolute; top: 448px; left: 496px; width: 136px; height: 20px; text-align: center;}
+#BadgeBtn { position: absolute; top: 336px; left: 200px; width: 32px; height: 24px; color: #ff0000;}
+#Button63 { position: absolute; top: 512px; left: 0px; width: 800px; height: 24px; }
+#Progressbar3 { position: absolute; top: 512px; left: 0px; width: 800px; height: 24px; }
+#SendPoll { background-image: url('../images/app_back.png'); }
+#Container7 { position: absolute; top: 88px; left: 824px; width: 136px; height: 72px; background-size: 100%; background-image: url('../images/app_back.png'); overflow-y: auto;}
+#Containeytr8 { position: absolute; top: 880px; left: 8px; width: 304px; height: 32px; }
+#Container9 { position: absolute; top: 0px; left: 0px; width: 800px; height: 48px; }
+#Label10 { position: absolute; top: 0px; left: 96px; width: 344px; height: 40px; font-size: 26px; text-align: left; padding-top: 4px;}
+#HtmlContent9 { position: absolute; top: 8px; left: 704px; width: 40px; height: 34px; color: #ffffff; padding-top: 6px;}
+#HtmlContent10 { position: absolute; top: 8px; left: 8px; width: 40px; height: 34px; color: #ffffff; padding-top: 7px;}
+#HtmlContent11 { position: absolute; top: 8px; left: 744px; width: 40px; height: 34px; color: #ffffff; padding-top: 6px;}
+#VOTERage { position: absolute; top: 344px; left: 824px; width: 288px; height: 40px; }
+#LGAselect { position: absolute; top: 104px; left: 64px; width: 304px; height: 40px; }
+#WARDselect { position: absolute; top: 152px; left: 64px; width: 304px; height: 40px; }
+#PUNITselect { position: absolute; top: 200px; left: 64px; width: 304px; height: 40px; }
+#ELECTIONselect { position: absolute; top: 248px; left: 64px; width: 304px; height: 40px; }
+#PARTYselect { position: absolute; top: 296px; left: 64px; width: 304px; height: 40px; }
+#RESPONSselect { position: absolute; top: 344px; left: 64px; width: 304px; height: 40px; }
+#REASONselect { position: absolute; top: 392px; left: 64px; width: 304px; height: 40px; }
+#VOTERname { position: absolute; top: 440px; left: 64px; width: 304px; height: 40px; }
+#VOTERphone { position: absolute; top: 104px; left: 432px; width: 304px; height: 40px; }
+#VOTERvin { position: absolute; top: 152px; left: 432px; width: 304px; height: 40px; }
+#Label6 { position: absolute; top: 224px; left: 432px; width: 296px; height: 20px; padding-top: 2px;}
+#YearSelect { position: absolute; top: 248px; left: 432px; width: 96px; height: 40px; }
+#MonthSelect { position: absolute; top: 248px; left: 536px; width: 96px; height: 40px; }
+#DaySelect { position: absolute; top: 248px; left: 640px; width: 96px; height: 40px; }
+#VOTERgender { position: absolute; top: 296px; left: 432px; width: 304px; height: 40px; }
+#VOTERreligion { position: absolute; top: 344px; left: 432px; width: 304px; height: 40px; }
+#AGENTname { position: absolute; top: 392px; left: 432px; width: 304px; height: 40px; }
+#AGENTphone { position: absolute; top: 440px; left: 432px; width: 304px; height: 40px; }
+#Button1 { position: absolute; top: 496px; left: 328px; width: 144px; height: 40px; }
+#Progressbar4 { position: absolute; top: 496px; left: 328px; width: 136px; height: 40px; }
+#Label2 { position: absolute; top: 56px; left: 256px; width: 304px; height: 32px; font-size: sm; text-align: center; padding-top: 4px;}
+#HtmlContentd0 { position: absolute; top: 8px; left: 72px; width: 656px; height: 440px; overflow-y: auto;}
+#Button2 { position: absolute; top: 472px; left: 384px; width: 144px; height: 48px; }
+#Button7 { position: absolute; top: 472px; left: 240px; width: 128px; height: 48px; }
+#IFrame3 { position: absolute; top: 48px; left: 0px; width: 800px; height: 496px; }
+#Progressbar2 { position: absolute; top: 512px; left: 0px; width: 800px; height: 32px; }
+#Button52 { position: absolute; top: 512px; left: 0px; width: 800px; height: 32px; }
+#Contttainer4 { position: absolute; top: 0px; left: 0px; width: 800px; height: 48px; }
+#Label4 { position: absolute; top: 0px; left: 72px; width: 552px; height: 40px; font-size: 26px; text-align: left; padding-top: 4px;}
+#HtmlConretent4 { position: absolute; top: 8px; left: 704px; width: 40px; height: 34px; color: #ffffff; padding-top: 6px;}
+#HtmlContent5 { position: absolute; top: 8px; left: 8px; width: 40px; height: 34px; color: #ffffff; padding-top: 7px;}
+#HtmlContent6 { position: absolute; top: 8px; left: 752px; width: 40px; height: 34px; color: #ffffff; padding-top: 6px;}
+#Button45 { position: absolute; top: 8px; left: 752px; width: 40px; height: 48px; }
+#HtmlContent1 { position: absolute; top: 96px; left: 120px; width: 552px; height: 320px; overflow-y: auto;}
+#Button4 { position: absolute; top: 448px; left: 296px; width: 160px; height: 56px; }
+#Image4 { position: absolute; top: 24px; left: 368px; width: 56px; height: 56px; border-radius: 10%;}
+#register { overflow-y: auto; }
+#Container10 { position: absolute; top: 0px; left: 0px; width: 320px; height: 512px; overflow-y: auto;}
+#Label8 { position: absolute; top: 56px; left: 72px; width: 184px; height: 30px; text-align: center;}
+#name { position: absolute; top: 104px; left: 16px; width: 288px; height: 40px; }
+#phone { position: absolute; top: 152px; left: 16px; width: 288px; height: 40px; }
+#email { position: absolute; top: 200px; left: 16px; width: 288px; height: 40px; }
+#state { position: absolute; top: 248px; left: 16px; width: 288px; height: 40px; }
+#city { position: absolute; top: 296px; left: 16px; width: 288px; height: 40px; }
+#plan { position: absolute; top: 344px; left: 16px; width: 288px; height: 40px; }
+#MsgSend { position: absolute; top: 392px; left: 16px; width: 288px; height: 48px; font-size: 16px;}
+#response { position: absolute; top: 448px; left: 16px; width: 288px; height: 56px; color: #008000; font-size: 16px;}
+#Label3 { position: absolute; top: 72px; left: 16px; width: 288px; height: 24px; color: #ff0000; text-align: center;}
+#activator { position: absolute; top: 392px; left: 16px; width: 288px; height: 48px; }
+#Container2 { position: absolute; top: 0px; left: 0px; width: 320px; height: 34px; background-color: #2e894b;}
+#HtmlContent63 { position: absolute; top: 0px; left: 0px; width: 40px; height: 34px; color: #ffffff; padding-top: 6px;}
+#Label52 { position: absolute; top: 0px; left: 40px; width: 152px; height: 40px; color: #ffffff; font-size: 18px; text-align: left; padding-top: 5px;}
+#HtmlContent64 { position: absolute; top: 0px; left: 200px; width: 40px; height: 34px; padding-top: 7px;}
+#HtmlContent65 { position: absolute; top: 0px; left: 240px; width: 42px; height: 34px; padding-top: 6px;}
+#HtmlContent66 { position: absolute; top: 0px; left: 280px; width: 40px; height: 34px; padding-top: 6px;}
+#serial { position: absolute; top: 32px; left: 384px; width: 192px; height: 40px; }
+#donatek { position: absolute; top: 80px; left: 384px; width: 200px; height: 40px; }
+#Activation { background-image: url('../images/calcbg.png'); }
+#Container47 { position: absolute; top: 0px; left: 0px; width: 320px; height: 512px; }
+#Container52 { position: absolute; top: 0px; left: 0px; width: 320px; height: 34px; background-color: #2e894b;}
+#HtmlContent55 { position: absolute; top: 0px; left: 0px; width: 40px; height: 34px; color: #ffffff; padding-top: 6px;}
+#Label45 { position: absolute; top: 0px; left: 40px; width: 152px; height: 40px; color: #ffffff; font-size: 18px; text-align: left; padding-top: 5px;}
+#HtmlContent60 { position: absolute; top: 0px; left: 200px; width: 40px; height: 34px; padding-top: 7px;}
+#HtmlContent61 { position: absolute; top: 0px; left: 240px; width: 42px; height: 34px; padding-top: 6px;}
+#HtmlContent62 { position: absolute; top: 0px; left: 280px; width: 40px; height: 34px; padding-top: 6px;}
+#Button22 { position: absolute; top: 416px; left: 160px; width: 152px; height: 40px; }
+#Button26 { position: absolute; top: 416px; left: 8px; width: 144px; height: 40px; }
+#Label16 { position: absolute; top: 48px; left: 8px; width: 304px; height: 24px; color: #408080; text-align: center;}
+#HtmlContent21 { position: absolute; top: 312px; left: 8px; width: 304px; height: 80px; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#HtmlContent22 { position: absolute; top: 216px; left: 8px; width: 304px; height: 80px; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#HtmlContent24 { position: absolute; top: 80px; left: 8px; width: 304px; height: 120px; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#Container53 { position: absolute; top: 80px; left: 8px; width: 304px; height: 312px; background-color: #0ec1cb;}
+#Button27 { position: absolute; top: 0px; left: 264px; width: 32px; height: 32px; }
+#HtmlContent25 { position: absolute; top: 48px; left: 8px; width: 288px; height: 256px; background-color: #ffffff; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#Label35 { position: absolute; top: 8px; left: 40px; width: 208px; height: 32px; color: #000000; text-align: center; padding-top: 6px;}
+#Button23 { position: absolute; top: 464px; left: 8px; width: 144px; height: 40px; color: #000000;}
+#Button30 { position: absolute; top: 464px; left: 160px; width: 152px; height: 40px; }
+#Container54 { position: absolute; top: 80px; left: 8px; width: 304px; height: 312px; background-color: #0ec1cb;}
+#Button3 { position: absolute; top: 0px; left: 264px; width: 32px; height: 32px; }
+#HtmlContent36 { position: absolute; top: 48px; left: 8px; width: 288px; height: 256px; background-color: #ffffff; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#Label31 { position: absolute; top: 8px; left: 40px; width: 208px; height: 32px; color: #000000; text-align: center; padding-top: 6px;}
+#Button18 { position: absolute; top: 120px; left: 24px; width: 256px; height: 48px; }
+#Label32 { position: absolute; top: 176px; left: 32px; width: 240px; height: 24px; color: #008000; text-align: center;}
+#Label33 { position: absolute; top: 264px; left: 40px; width: 224px; height: 24px; color: #efa201; text-align: center;}
+#Button51 { position: absolute; top: 216px; left: 24px; width: 256px; height: 40px; color: #000000;}
+#Label36 { position: absolute; top: 72px; left: 16px; width: 272px; height: 24px; color: #c0c0c0; text-align: center;}
+#Container55 { position: absolute; top: 80px; left: 8px; width: 304px; height: 312px; background-color: #0ec1cb;}
+#Button70 { position: absolute; top: 0px; left: 264px; width: 32px; height: 32px; }
+#HtmlContent49 { position: absolute; top: 48px; left: 8px; width: 288px; height: 256px; background-color: #ffffff; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#Label44 { position: absolute; top: 8px; left: 40px; width: 208px; height: 32px; color: #000000; text-align: center; padding-top: 6px;}
+#Button71 { position: absolute; top: 88px; left: 24px; width: 256px; height: 40px; }
+#Label49 { position: absolute; top: 136px; left: 40px; width: 224px; height: 24px; color: #008000; text-align: center;}
+#Label50 { position: absolute; top: 248px; left: 40px; width: 224px; height: 24px; color: #efa201; text-align: center;}
+#Button72 { position: absolute; top: 200px; left: 24px; width: 256px; height: 40px; color: #000000;}
+#Container56 { position: absolute; top: 48px; left: 8px; width: 304px; height: 352px; background-color: #0ec1cb;}
+#Button68 { position: absolute; top: 0px; left: 264px; width: 32px; height: 32px; }
+#Container57 { position: absolute; top: 40px; left: 8px; width: 288px; height: 304px; }
+#Input5 { position: absolute; top: 128px; left: 8px; width: 272px; height: 40px; }
+#Button69 { position: absolute; top: 240px; left: 48px; width: 184px; height: 48px; }
+#Input6 { position: absolute; top: 72px; left: 8px; width: 272px; height: 40px; }
+#Input10 { position: absolute; top: 16px; left: 152px; width: 128px; height: 40px; }
+#Select5 { position: absolute; top: 176px; left: 8px; width: 272px; height: 40px; }
+#Input1 { position: absolute; top: 16px; left: 8px; width: 136px; height: 40px; }
+#Label42 { position: absolute; top: 8px; left: 40px; width: 224px; height: 32px; text-align: center;}
+#PhoneInput { position: absolute; top: 8px; left: 344px; width: 120px; height: 40px; }
+#Container3 { position: absolute; top: 0px; left: 0px; width: 320px; height: 512px; overflow-y: auto;}
+#Button24 { position: absolute; top: 0px; left: 280px; width: 32px; height: 32px; }
+#Container72 { position: absolute; top: 160px; left: 32px; width: 256px; height: 280px; border-color: #c0c0c0; border: 1px;}
+#UserKey { position: absolute; top: 40px; left: 24px; width: 208px; height: 72px; }
+#Label23 { position: absolute; top: 240px; left: 0px; width: 256px; height: 32px; color: #c0c0c0; text-align: center;}
+#Button14 { position: absolute; top: 152px; left: 24px; width: 208px; height: 72px; }
+#HtmlContent47 { position: absolute; top: 32px; left: 136px; width: 64px; height: 56px; }
+#Label1 { position: absolute; top: 120px; left: 32px; width: 256px; height: 40px; color: #ff0000; text-align: center;}
+#Label5 { position: absolute; top: 472px; left: 32px; width: 256px; height: 32px; color: #008040; text-align: right;}
+#Container48 { position: absolute; top: 152px; left: 8px; width: 304px; height: 352px; background-color: #0ec1cb; z-index: 100;}
+#Button33 { position: absolute; top: 0px; left: 264px; width: 32px; height: 32px; }
+#Container49 { position: absolute; top: 56px; left: 8px; width: 288px; height: 232px; }
+#InputUserID { position: absolute; top: 24px; left: 16px; width: 184px; height: 40px; }
+#InputResult { position: absolute; top: 192px; left: 0px; width: 176px; height: 40px; }
+#Button46 { position: absolute; top: 72px; left: 208px; width: 64px; height: 40px; }
+#Button47 { position: absolute; top: 120px; left: 200px; width: 72px; height: 40px; }
+#Button36 { position: absolute; top: 120px; left: 16px; width: 176px; height: 40px; }
+#InputUserPhone { position: absolute; top: 176px; left: 16px; width: 256px; height: 40px; }
+#InputPIN { position: absolute; top: 24px; left: 208px; width: 64px; height: 40px; }
+#Textarea1 { position: absolute; top: 72px; left: 16px; width: 184px; height: 40px; }
+#Textarea3 { position: absolute; top: 80px; left: 24px; width: 272px; height: 72px; }
+#Textarea4 { position: absolute; top: 272px; left: 24px; width: 272px; height: 72px; }
+#Label64 { position: absolute; top: 384px; left: 112px; width: 104px; height: 28px; color: #ff0000; text-align: left;}
+#Button5 { position: absolute; top: 456px; left: 64px; width: 200px; height: 40px; }
+/* App inline CSS */
+
+.card
+{
+  margin-bottom: 8px;
+  border-color: green;
+}
+
+#HtmlContent7,
+#HtmlContent4,
+#HtmlContent8,
+#HtmlContent13,
+#HtmlContent19,
+#HtmlContent24,
+#HtmlContent22,
+#HtmlContent21,
+#HtmlContent25,
+#HtmlContent49,
+#HtmlContent36
+
+{
+  overflow: auto;
+  background: white;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0px 0px 8px 0px #c0c0c0;
+  text-align: justify;
+  font-size: 14px;
+  color: #408080;
+}
+
+#Container26,
+#Container27,
+#Container6,
+#Container9,
+#Contaitner4,
+#Container2,
+#Container52,
+#Container28,
+#Container8,
+#Container22,
+#Container24,
+#Container29,
+#Container76,
+#Contttainer4,
+#ContainerHead,
+#ContainerOptions,
+#ContainerVidHead
+{
+  background: #ff8000;
+  box-shadow: 0px 0px 6px 0px #404040;
+}
+
+
+#ContainerHist,
+#ContainerMat,
+#ContainerPlayer
+{
+  box-shadow: 0px 0px 6px 0px #2e894b;
+  background: white;
+  border-radius: 3px 3px 3px 3px;
+  border-color: #2e894b;
+  border-style: solid;
+  border-size: 1px;
+}
+
+
+#ContainerSubj,
+#ContainerOptions
+{
+  background: white;
+  box-shadow: 0px 0px 6px 0px #404040;
+}
+
+#HtmlContent28
+{
+  overflow: auto;
+  background: white;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0px 0px 8px 0px #c0c0c0;
+  text-align: justify;
+  font-size: 14px;
+}
+
+#HtmlContent53
+{
+  height: auto;
+  background: white;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0px 0px 8px 0px #c0c0c0;
+  text-align: justify;
+  color: #black;
+  font-size: 18px;
+  font-family: "Times New Raman";
+}
+
+
+#Container34,
+#Container57,
+#Container68,
+#Container49,
+#Container23,
+#Container51,
+#Container58,
+#Container59,
+#Container60,
+#Container61,
+#Container62,
+#Container63,
+#Container64,
+#Container65,
+#Container66,
+#Container67,
+#Container68,
+#Container70,
+#Container69,
+#Container72,
+#Container81,
+#ContainerMode,
+#ContainerMode1,
+#Container27k,
+#Container64k,
+#Container70k,
+#Container66k,
+#Container65k,
+#Container46k,
+#Container50k,
+#Container58k,
+#Container51k,
+#Container59k,
+#Container60k,
+#Container61k,
+#Container62k,
+#Container63k,
+#Container67k,
+#Container68k,
+#Container69k,
+#Container68,
+#Container73,
+#Container75,
+#Container77,
+#Container4,
+#Container50,
+#Container74,
+#Container71
+{
+  overflow: auto;
+  background: white;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0px 0px 8px 0px #c0c0c0;
+  text-align: justify;
+  font-size: 15px;
+}
+
+.activeRow
+{
+  color: #000000;
+  background-color: #78bcbc;
+}

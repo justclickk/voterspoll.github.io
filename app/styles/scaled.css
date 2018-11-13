@@ -1,0 +1,354 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2018 App Builder - https://www.davidesperalta.com
+ */
+/* App auto generated CSS */
+html, body { width: 800px; height: 540px; }
+#welcome { background-image: url('../images/app_back.png'); }
+#Container30 { position: absolute; top: 0.00%; left: 101.00%; width: 35.00%; height: 94.81%; background-image: url('../images/app_menu_back.png'); border-right: #bbb solid 1px; overflow-y: auto; z-index: 9999;}
+#Container31 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 26.56%; background-color: #00cccc; background-size: 100%; background-image: url('../images/app_head_back.png'); background-position: 0; border-bottom: 3px; border-bottom-color: black; border-bottom-style: solid;}
+#Container32 { position: absolute; top: 26.56%; left: 0.00%; width: 85.71%; height: 7.81%; }
+#C_all_apps_btn { position: absolute; top: 20.00%; left: 23.33%; width: 70.00%; height: 60.00%; padding-top: 5px;}
+#C_all_apps_ico { position: absolute; top: 20.00%; left: 3.33%; width: 10.00%; height: 60.00%; }
+#Container39 { position: absolute; top: 67.19%; left: 0.00%; width: 85.71%; height: 7.81%; }
+#C_visit_site_btn { position: absolute; top: 20.00%; left: 23.33%; width: 70.00%; height: 60.00%; padding-top: 5px;}
+#C_visit_site_ico { position: absolute; top: 20.00%; left: 3.33%; width: 10.00%; height: 60.00%; }
+#Container40 { position: absolute; top: 59.38%; left: 0.00%; width: 85.71%; height: 7.81%; }
+#C_help_btn { position: absolute; top: 20.00%; left: 23.33%; width: 70.00%; height: 60.00%; padding-top: 5px;}
+#C_help_ico { position: absolute; top: 20.00%; left: 3.33%; width: 10.00%; height: 60.00%; }
+#Container41 { position: absolute; top: 51.56%; left: 0.00%; width: 85.71%; height: 7.81%; }
+#C_chat_btn { position: absolute; top: 20.00%; left: 23.33%; width: 70.00%; height: 60.00%; padding-top: 5px;}
+#C_chat_ico { position: absolute; top: 20.00%; left: 3.33%; width: 10.00%; height: 60.00%; }
+#Container42 { position: absolute; top: 43.75%; left: 0.00%; width: 85.71%; height: 7.81%; }
+#C_activate_btn { position: absolute; top: 20.00%; left: 23.33%; width: 70.00%; height: 60.00%; padding-top: 5px;}
+#C_activate_ico { position: absolute; top: 20.00%; left: 3.33%; width: 10.00%; height: 60.00%; }
+#Container43 { position: absolute; top: 35.94%; left: 0.00%; width: 85.71%; height: 7.81%; }
+#C_reqst_code_btn { position: absolute; top: 20.00%; left: 23.33%; width: 70.00%; height: 60.00%; color: #008000; padding-top: 5px;}
+#C_reqst_code_ico { position: absolute; top: 20.00%; left: 3.33%; width: 10.00%; height: 60.00%; }
+#Container12 { position: absolute; top: 76.56%; left: 0.00%; width: 85.71%; height: 7.81%; }
+#C_Update_btn { position: absolute; top: 20.00%; left: 23.33%; width: 70.00%; height: 60.00%; padding-top: 5px;}
+#C_Update_ico { position: absolute; top: 20.00%; left: 3.33%; width: 10.00%; height: 60.00%; }
+#Container13 { position: absolute; top: 84.38%; left: 0.00%; width: 85.71%; height: 7.81%; }
+#C_About_btn { position: absolute; top: 20.00%; left: 23.33%; width: 70.00%; height: 60.00%; padding-top: 5px;}
+#C_About_ico { position: absolute; top: 20.00%; left: 3.33%; width: 10.00%; height: 60.00%; }
+#Container14 { position: absolute; top: 92.19%; left: 0.00%; width: 85.71%; height: 7.81%; }
+#C_Settings_btn { position: absolute; top: 20.00%; left: 23.33%; width: 70.00%; height: 60.00%; padding-top: 5px;}
+#C_Settings_ico { position: absolute; top: 20.00%; left: 3.33%; width: 10.00%; height: 60.00%; }
+#Contaitner4 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 8.89%; }
+#Label20 { position: absolute; top: 0.00%; left: 13.00%; width: 44.00%; height: 83.33%; font-size: 26px; text-align: left; padding-top: 4px;}
+#HtmlConftent17 { position: absolute; top: 16.67%; left: 88.00%; width: 5.00%; height: 70.83%; color: #ffffff; padding-top: 6px;}
+#HtmlContent56 { position: absolute; top: 16.67%; left: 1.00%; width: 5.00%; height: 70.83%; color: #ffffff; padding-top: 7px;}
+#HtmlContent2 { position: absolute; top: 16.67%; left: 94.00%; width: 5.00%; height: 70.83%; color: #ffffff; padding-top: 6px;}
+#Image1 { position: absolute; top: 29.63%; left: 19.00%; width: 16.00%; height: 22.22%; opacity: 50%; border-radius: 10%; border-width: 2px; box-shadow: 6px;}
+#Image2 { position: absolute; top: 60.74%; left: 19.00%; width: 16.00%; height: 22.22%; border-radius: 10%;}
+#Image3 { position: absolute; top: 29.63%; left: 41.00%; width: 16.00%; height: 22.22%; border-radius: 10%;}
+#Image5 { position: absolute; top: 59.26%; left: 41.00%; width: 16.00%; height: 23.70%; border-radius: 10%;}
+#addpoll { position: absolute; top: 51.85%; left: 19.00%; width: 16.00%; height: 3.70%; text-align: center;}
+#Label9 { position: absolute; top: 51.85%; left: 41.00%; width: 16.00%; height: 3.70%; text-align: center;}
+#Label11 { position: absolute; top: 82.96%; left: 19.00%; width: 15.00%; height: 3.70%; text-align: center;}
+#Label14 { position: absolute; top: 82.96%; left: 42.00%; width: 15.00%; height: 3.70%; text-align: center;}
+#Label19 { position: absolute; top: 16.30%; left: 19.00%; width: 59.00%; height: 3.70%; font-size: lg; text-align: center;}
+#Image7 { position: absolute; top: 29.63%; left: 63.00%; width: 15.00%; height: 22.22%; border-radius: 10%;}
+#Image8 { position: absolute; top: 59.26%; left: 63.00%; width: 15.00%; height: 23.70%; border-radius: 10%;}
+#Label21 { position: absolute; top: 51.85%; left: 63.00%; width: 15.00%; height: 3.70%; text-align: center;}
+#Label22 { position: absolute; top: 82.96%; left: 62.00%; width: 17.00%; height: 3.70%; text-align: center;}
+#BadgeBtn { position: absolute; top: 62.22%; left: 25.00%; width: 4.00%; height: 4.44%; color: #ff0000;}
+#Button63 { position: absolute; top: 94.81%; left: 0.00%; width: 100.00%; height: 4.44%; }
+#Progressbar3 { position: absolute; top: 94.81%; left: 0.00%; width: 100.00%; height: 4.44%; }
+#SendPoll { background-image: url('../images/app_back.png'); }
+#Container7 { position: absolute; top: 16.30%; left: 103.00%; width: 17.00%; height: 13.33%; background-size: 100%; background-image: url('../images/app_back.png'); overflow-y: auto;}
+#Containeytr8 { position: absolute; top: 1222.22%; left: 5.88%; width: 223.53%; height: 44.44%; }
+#Container9 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 8.89%; }
+#Label10 { position: absolute; top: 0.00%; left: 12.00%; width: 43.00%; height: 83.33%; font-size: 26px; text-align: left; padding-top: 4px;}
+#HtmlContent9 { position: absolute; top: 16.67%; left: 88.00%; width: 5.00%; height: 70.83%; color: #ffffff; padding-top: 6px;}
+#HtmlContent10 { position: absolute; top: 16.67%; left: 1.00%; width: 5.00%; height: 70.83%; color: #ffffff; padding-top: 7px;}
+#HtmlContent11 { position: absolute; top: 16.67%; left: 93.00%; width: 5.00%; height: 70.83%; color: #ffffff; padding-top: 6px;}
+#VOTERage { position: absolute; top: 63.70%; left: 103.00%; width: 36.00%; height: 7.41%; }
+#LGAselect { position: absolute; top: 19.26%; left: 8.00%; width: 38.00%; height: 7.41%; }
+#WARDselect { position: absolute; top: 28.15%; left: 8.00%; width: 38.00%; height: 7.41%; }
+#PUNITselect { position: absolute; top: 37.04%; left: 8.00%; width: 38.00%; height: 7.41%; }
+#ELECTIONselect { position: absolute; top: 45.93%; left: 8.00%; width: 38.00%; height: 7.41%; }
+#PARTYselect { position: absolute; top: 54.81%; left: 8.00%; width: 38.00%; height: 7.41%; }
+#RESPONSselect { position: absolute; top: 63.70%; left: 8.00%; width: 38.00%; height: 7.41%; }
+#REASONselect { position: absolute; top: 72.59%; left: 8.00%; width: 38.00%; height: 7.41%; }
+#VOTERname { position: absolute; top: 81.48%; left: 8.00%; width: 38.00%; height: 7.41%; }
+#VOTERphone { position: absolute; top: 19.26%; left: 54.00%; width: 38.00%; height: 7.41%; }
+#VOTERvin { position: absolute; top: 28.15%; left: 54.00%; width: 38.00%; height: 7.41%; }
+#Label6 { position: absolute; top: 41.48%; left: 54.00%; width: 37.00%; height: 3.70%; padding-top: 2px;}
+#YearSelect { position: absolute; top: 45.93%; left: 54.00%; width: 12.00%; height: 7.41%; }
+#MonthSelect { position: absolute; top: 45.93%; left: 67.00%; width: 12.00%; height: 7.41%; }
+#DaySelect { position: absolute; top: 45.93%; left: 80.00%; width: 12.00%; height: 7.41%; }
+#VOTERgender { position: absolute; top: 54.81%; left: 54.00%; width: 38.00%; height: 7.41%; }
+#VOTERreligion { position: absolute; top: 63.70%; left: 54.00%; width: 38.00%; height: 7.41%; }
+#AGENTname { position: absolute; top: 72.59%; left: 54.00%; width: 38.00%; height: 7.41%; }
+#AGENTphone { position: absolute; top: 81.48%; left: 54.00%; width: 38.00%; height: 7.41%; }
+#Button1 { position: absolute; top: 91.85%; left: 41.00%; width: 18.00%; height: 7.41%; }
+#Progressbar4 { position: absolute; top: 91.85%; left: 41.00%; width: 17.00%; height: 7.41%; }
+#Label2 { position: absolute; top: 10.37%; left: 32.00%; width: 38.00%; height: 5.93%; font-size: sm; text-align: center; padding-top: 4px;}
+#HtmlContentd0 { position: absolute; top: 1.48%; left: 9.00%; width: 82.00%; height: 81.48%; overflow-y: auto;}
+#Button2 { position: absolute; top: 87.41%; left: 48.00%; width: 18.00%; height: 8.89%; }
+#Button7 { position: absolute; top: 87.41%; left: 30.00%; width: 16.00%; height: 8.89%; }
+#IFrame3 { position: absolute; top: 8.89%; left: 0.00%; width: 100.00%; height: 91.85%; }
+#Progressbar2 { position: absolute; top: 94.81%; left: 0.00%; width: 100.00%; height: 5.93%; }
+#Button52 { position: absolute; top: 94.81%; left: 0.00%; width: 100.00%; height: 5.93%; }
+#Contttainer4 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 8.89%; }
+#Label4 { position: absolute; top: 0.00%; left: 9.00%; width: 69.00%; height: 83.33%; font-size: 26px; text-align: left; padding-top: 4px;}
+#HtmlConretent4 { position: absolute; top: 16.67%; left: 88.00%; width: 5.00%; height: 70.83%; color: #ffffff; padding-top: 6px;}
+#HtmlContent5 { position: absolute; top: 16.67%; left: 1.00%; width: 5.00%; height: 70.83%; color: #ffffff; padding-top: 7px;}
+#HtmlContent6 { position: absolute; top: 16.67%; left: 94.00%; width: 5.00%; height: 70.83%; color: #ffffff; padding-top: 6px;}
+#Button45 { position: absolute; top: 1.48%; left: 94.00%; width: 5.00%; height: 8.89%; }
+#HtmlContent1 { position: absolute; top: 17.78%; left: 15.00%; width: 69.00%; height: 59.26%; overflow-y: auto;}
+#Button4 { position: absolute; top: 82.96%; left: 37.00%; width: 20.00%; height: 10.37%; }
+#Image4 { position: absolute; top: 4.44%; left: 46.00%; width: 7.00%; height: 10.37%; border-radius: 10%;}
+#register { overflow-y: auto; }
+#Container10 { position: absolute; top: 0.00%; left: 0.00%; width: 40.00%; height: 94.81%; overflow-y: auto;}
+#Label8 { position: absolute; top: 10.94%; left: 22.50%; width: 57.50%; height: 5.86%; text-align: center;}
+#name { position: absolute; top: 20.31%; left: 5.00%; width: 90.00%; height: 7.81%; }
+#phone { position: absolute; top: 29.69%; left: 5.00%; width: 90.00%; height: 7.81%; }
+#email { position: absolute; top: 39.06%; left: 5.00%; width: 90.00%; height: 7.81%; }
+#state { position: absolute; top: 48.44%; left: 5.00%; width: 90.00%; height: 7.81%; }
+#city { position: absolute; top: 57.81%; left: 5.00%; width: 90.00%; height: 7.81%; }
+#plan { position: absolute; top: 67.19%; left: 5.00%; width: 90.00%; height: 7.81%; }
+#MsgSend { position: absolute; top: 76.56%; left: 5.00%; width: 90.00%; height: 9.38%; font-size: 16px;}
+#response { position: absolute; top: 87.50%; left: 5.00%; width: 90.00%; height: 10.94%; color: #008000; font-size: 16px;}
+#Label3 { position: absolute; top: 14.06%; left: 5.00%; width: 90.00%; height: 4.69%; color: #ff0000; text-align: center;}
+#activator { position: absolute; top: 76.56%; left: 5.00%; width: 90.00%; height: 9.38%; }
+#Container2 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 6.64%; background-color: #2e894b;}
+#HtmlContent63 { position: absolute; top: 0.00%; left: 0.00%; width: 12.50%; height: 100.00%; color: #ffffff; padding-top: 6px;}
+#Label52 { position: absolute; top: 0.00%; left: 12.50%; width: 47.50%; height: 117.65%; color: #ffffff; font-size: 18px; text-align: left; padding-top: 5px;}
+#HtmlContent64 { position: absolute; top: 0.00%; left: 62.50%; width: 12.50%; height: 100.00%; padding-top: 7px;}
+#HtmlContent65 { position: absolute; top: 0.00%; left: 75.00%; width: 13.13%; height: 100.00%; padding-top: 6px;}
+#HtmlContent66 { position: absolute; top: 0.00%; left: 87.50%; width: 12.50%; height: 100.00%; padding-top: 6px;}
+#serial { position: absolute; top: 5.93%; left: 48.00%; width: 24.00%; height: 7.41%; }
+#donatek { position: absolute; top: 14.81%; left: 48.00%; width: 25.00%; height: 7.41%; }
+#Activation { background-image: url('../images/calcbg.png'); }
+#Container47 { position: absolute; top: 0.00%; left: 0.00%; width: 40.00%; height: 94.81%; }
+#Container52 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 6.64%; background-color: #2e894b;}
+#HtmlContent55 { position: absolute; top: 0.00%; left: 0.00%; width: 12.50%; height: 100.00%; color: #ffffff; padding-top: 6px;}
+#Label45 { position: absolute; top: 0.00%; left: 12.50%; width: 47.50%; height: 117.65%; color: #ffffff; font-size: 18px; text-align: left; padding-top: 5px;}
+#HtmlContent60 { position: absolute; top: 0.00%; left: 62.50%; width: 12.50%; height: 100.00%; padding-top: 7px;}
+#HtmlContent61 { position: absolute; top: 0.00%; left: 75.00%; width: 13.13%; height: 100.00%; padding-top: 6px;}
+#HtmlContent62 { position: absolute; top: 0.00%; left: 87.50%; width: 12.50%; height: 100.00%; padding-top: 6px;}
+#Button22 { position: absolute; top: 81.25%; left: 50.00%; width: 47.50%; height: 7.81%; }
+#Button26 { position: absolute; top: 81.25%; left: 2.50%; width: 45.00%; height: 7.81%; }
+#Label16 { position: absolute; top: 9.38%; left: 2.50%; width: 95.00%; height: 4.69%; color: #408080; text-align: center;}
+#HtmlContent21 { position: absolute; top: 60.94%; left: 2.50%; width: 95.00%; height: 15.63%; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#HtmlContent22 { position: absolute; top: 42.19%; left: 2.50%; width: 95.00%; height: 15.63%; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#HtmlContent24 { position: absolute; top: 15.63%; left: 2.50%; width: 95.00%; height: 23.44%; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#Container53 { position: absolute; top: 15.63%; left: 2.50%; width: 95.00%; height: 60.94%; background-color: #0ec1cb;}
+#Button27 { position: absolute; top: 0.00%; left: 86.84%; width: 10.53%; height: 10.26%; }
+#HtmlContent25 { position: absolute; top: 15.38%; left: 2.63%; width: 94.74%; height: 82.05%; background-color: #ffffff; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#Label35 { position: absolute; top: 2.56%; left: 13.16%; width: 68.42%; height: 10.26%; color: #000000; text-align: center; padding-top: 6px;}
+#Button23 { position: absolute; top: 90.63%; left: 2.50%; width: 45.00%; height: 7.81%; color: #000000;}
+#Button30 { position: absolute; top: 90.63%; left: 50.00%; width: 47.50%; height: 7.81%; }
+#Container54 { position: absolute; top: 15.63%; left: 2.50%; width: 95.00%; height: 60.94%; background-color: #0ec1cb;}
+#Button3 { position: absolute; top: 0.00%; left: 86.84%; width: 10.53%; height: 10.26%; }
+#HtmlContent36 { position: absolute; top: 15.38%; left: 2.63%; width: 94.74%; height: 82.05%; background-color: #ffffff; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#Label31 { position: absolute; top: 2.56%; left: 13.16%; width: 68.42%; height: 10.26%; color: #000000; text-align: center; padding-top: 6px;}
+#Button18 { position: absolute; top: 38.46%; left: 7.89%; width: 84.21%; height: 15.38%; }
+#Label32 { position: absolute; top: 56.41%; left: 10.53%; width: 78.95%; height: 7.69%; color: #008000; text-align: center;}
+#Label33 { position: absolute; top: 84.62%; left: 13.16%; width: 73.68%; height: 7.69%; color: #efa201; text-align: center;}
+#Button51 { position: absolute; top: 69.23%; left: 7.89%; width: 84.21%; height: 12.82%; color: #000000;}
+#Label36 { position: absolute; top: 23.08%; left: 5.26%; width: 89.47%; height: 7.69%; color: #c0c0c0; text-align: center;}
+#Container55 { position: absolute; top: 15.63%; left: 2.50%; width: 95.00%; height: 60.94%; background-color: #0ec1cb;}
+#Button70 { position: absolute; top: 0.00%; left: 86.84%; width: 10.53%; height: 10.26%; }
+#HtmlContent49 { position: absolute; top: 15.38%; left: 2.63%; width: 94.74%; height: 82.05%; background-color: #ffffff; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px;}
+#Label44 { position: absolute; top: 2.56%; left: 13.16%; width: 68.42%; height: 10.26%; color: #000000; text-align: center; padding-top: 6px;}
+#Button71 { position: absolute; top: 28.21%; left: 7.89%; width: 84.21%; height: 12.82%; }
+#Label49 { position: absolute; top: 43.59%; left: 13.16%; width: 73.68%; height: 7.69%; color: #008000; text-align: center;}
+#Label50 { position: absolute; top: 79.49%; left: 13.16%; width: 73.68%; height: 7.69%; color: #efa201; text-align: center;}
+#Button72 { position: absolute; top: 64.10%; left: 7.89%; width: 84.21%; height: 12.82%; color: #000000;}
+#Container56 { position: absolute; top: 9.38%; left: 2.50%; width: 95.00%; height: 68.75%; background-color: #0ec1cb;}
+#Button68 { position: absolute; top: 0.00%; left: 86.84%; width: 10.53%; height: 9.09%; }
+#Container57 { position: absolute; top: 11.36%; left: 2.63%; width: 94.74%; height: 86.36%; }
+#Input5 { position: absolute; top: 42.11%; left: 2.78%; width: 94.44%; height: 13.16%; }
+#Button69 { position: absolute; top: 78.95%; left: 16.67%; width: 63.89%; height: 15.79%; }
+#Input6 { position: absolute; top: 23.68%; left: 2.78%; width: 94.44%; height: 13.16%; }
+#Input10 { position: absolute; top: 5.26%; left: 52.78%; width: 44.44%; height: 13.16%; }
+#Select5 { position: absolute; top: 57.89%; left: 2.78%; width: 94.44%; height: 13.16%; }
+#Input1 { position: absolute; top: 5.26%; left: 2.78%; width: 47.22%; height: 13.16%; }
+#Label42 { position: absolute; top: 2.27%; left: 13.16%; width: 73.68%; height: 9.09%; text-align: center;}
+#PhoneInput { position: absolute; top: 1.48%; left: 43.00%; width: 15.00%; height: 7.41%; }
+#Container3 { position: absolute; top: 0.00%; left: 0.00%; width: 40.00%; height: 94.81%; overflow-y: auto;}
+#Button24 { position: absolute; top: 0.00%; left: 87.50%; width: 10.00%; height: 6.25%; }
+#Container72 { position: absolute; top: 31.25%; left: 10.00%; width: 80.00%; height: 54.69%; border-color: #c0c0c0; border: 1px;}
+#UserKey { position: absolute; top: 14.29%; left: 9.38%; width: 81.25%; height: 25.71%; }
+#Label23 { position: absolute; top: 85.71%; left: 0.00%; width: 100.00%; height: 11.43%; color: #c0c0c0; text-align: center;}
+#Button14 { position: absolute; top: 54.29%; left: 9.38%; width: 81.25%; height: 25.71%; }
+#HtmlContent47 { position: absolute; top: 6.25%; left: 42.50%; width: 20.00%; height: 10.94%; }
+#Label1 { position: absolute; top: 23.44%; left: 10.00%; width: 80.00%; height: 7.81%; color: #ff0000; text-align: center;}
+#Label5 { position: absolute; top: 92.19%; left: 10.00%; width: 80.00%; height: 6.25%; color: #008040; text-align: right;}
+#Container48 { position: absolute; top: 29.69%; left: 2.50%; width: 95.00%; height: 68.75%; background-color: #0ec1cb; z-index: 100;}
+#Button33 { position: absolute; top: 0.00%; left: 86.84%; width: 10.53%; height: 9.09%; }
+#Container49 { position: absolute; top: 15.91%; left: 2.63%; width: 94.74%; height: 65.91%; }
+#InputUserID { position: absolute; top: 10.34%; left: 5.56%; width: 63.89%; height: 17.24%; }
+#InputResult { position: absolute; top: 82.76%; left: 0.00%; width: 61.11%; height: 17.24%; }
+#Button46 { position: absolute; top: 31.03%; left: 72.22%; width: 22.22%; height: 17.24%; }
+#Button47 { position: absolute; top: 51.72%; left: 69.44%; width: 25.00%; height: 17.24%; }
+#Button36 { position: absolute; top: 51.72%; left: 5.56%; width: 61.11%; height: 17.24%; }
+#InputUserPhone { position: absolute; top: 75.86%; left: 5.56%; width: 88.89%; height: 17.24%; }
+#InputPIN { position: absolute; top: 10.34%; left: 72.22%; width: 22.22%; height: 17.24%; }
+#Textarea1 { position: absolute; top: 31.03%; left: 5.56%; width: 63.89%; height: 17.24%; }
+#Textarea3 { position: absolute; top: 14.81%; left: 3.00%; width: 34.00%; height: 13.33%; }
+#Textarea4 { position: absolute; top: 50.37%; left: 3.00%; width: 34.00%; height: 13.33%; }
+#Label64 { position: absolute; top: 71.11%; left: 14.00%; width: 13.00%; height: 5.19%; color: #ff0000; text-align: left;}
+#Button5 { position: absolute; top: 84.44%; left: 8.00%; width: 25.00%; height: 7.41%; }
+/* App inline CSS */
+
+.card
+{
+  margin-bottom: 8px;
+  border-color: green;
+}
+
+#HtmlContent7,
+#HtmlContent4,
+#HtmlContent8,
+#HtmlContent13,
+#HtmlContent19,
+#HtmlContent24,
+#HtmlContent22,
+#HtmlContent21,
+#HtmlContent25,
+#HtmlContent49,
+#HtmlContent36
+
+{
+  overflow: auto;
+  background: white;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0px 0px 8px 0px #c0c0c0;
+  text-align: justify;
+  font-size: 14px;
+  color: #408080;
+}
+
+#Container26,
+#Container27,
+#Container6,
+#Container9,
+#Contaitner4,
+#Container2,
+#Container52,
+#Container28,
+#Container8,
+#Container22,
+#Container24,
+#Container29,
+#Container76,
+#Contttainer4,
+#ContainerHead,
+#ContainerOptions,
+#ContainerVidHead
+{
+  background: #ff8000;
+  box-shadow: 0px 0px 6px 0px #404040;
+}
+
+
+#ContainerHist,
+#ContainerMat,
+#ContainerPlayer
+{
+  box-shadow: 0px 0px 6px 0px #2e894b;
+  background: white;
+  border-radius: 3px 3px 3px 3px;
+  border-color: #2e894b;
+  border-style: solid;
+  border-size: 1px;
+}
+
+
+#ContainerSubj,
+#ContainerOptions
+{
+  background: white;
+  box-shadow: 0px 0px 6px 0px #404040;
+}
+
+#HtmlContent28
+{
+  overflow: auto;
+  background: white;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0px 0px 8px 0px #c0c0c0;
+  text-align: justify;
+  font-size: 14px;
+}
+
+#HtmlContent53
+{
+  height: auto;
+  background: white;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0px 0px 8px 0px #c0c0c0;
+  text-align: justify;
+  color: #black;
+  font-size: 18px;
+  font-family: "Times New Raman";
+}
+
+
+#Container34,
+#Container57,
+#Container68,
+#Container49,
+#Container23,
+#Container51,
+#Container58,
+#Container59,
+#Container60,
+#Container61,
+#Container62,
+#Container63,
+#Container64,
+#Container65,
+#Container66,
+#Container67,
+#Container68,
+#Container70,
+#Container69,
+#Container72,
+#Container81,
+#ContainerMode,
+#ContainerMode1,
+#Container27k,
+#Container64k,
+#Container70k,
+#Container66k,
+#Container65k,
+#Container46k,
+#Container50k,
+#Container58k,
+#Container51k,
+#Container59k,
+#Container60k,
+#Container61k,
+#Container62k,
+#Container63k,
+#Container67k,
+#Container68k,
+#Container69k,
+#Container68,
+#Container73,
+#Container75,
+#Container77,
+#Container4,
+#Container50,
+#Container74,
+#Container71
+{
+  overflow: auto;
+  background: white;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0px 0px 8px 0px #c0c0c0;
+  text-align: justify;
+  font-size: 15px;
+}
+
+.activeRow
+{
+  color: #000000;
+  background-color: #78bcbc;
+}
